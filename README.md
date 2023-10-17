@@ -1,7 +1,8 @@
 ## Больше чем кеш
 *Как мы используем sharded redis в нагруженных сервисах
 рекомендаций*
-[слайды](), [запись](https://youtube.com/watch?v=1czK7Pw23iE)
+
+[запись](https://youtube.com/watch?v=1czK7Pw23iE)
 
 ### Обратная связь
 [форма](https://form.typeform.com/to/LlwQAThO)
